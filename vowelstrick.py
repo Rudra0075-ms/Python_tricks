@@ -1,0 +1,1 @@
+print(sum(1 for c in "harrypotter" if c in "aeiou"))
