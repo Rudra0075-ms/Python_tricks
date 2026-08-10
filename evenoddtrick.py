@@ -1,0 +1,1 @@
+print("Even" if 17 % 2 == 0 else "Odd")
