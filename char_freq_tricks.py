@@ -1,0 +1,1 @@
+print({c: "tom".count(c) for c in set("tom")})
