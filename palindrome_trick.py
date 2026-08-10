@@ -1,0 +1,1 @@
+print("Palindrome" if "noon" == "noon"[::-1] else "Not Palindrome")
