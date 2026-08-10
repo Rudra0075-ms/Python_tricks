@@ -1,0 +1,1 @@
+print([x for x in ["hedwig", "AI", "harry", "hermione", "ron"] if len(x) > 5])
