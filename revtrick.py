@@ -1,0 +1,1 @@
+print("hogwartsz"[::-1])
